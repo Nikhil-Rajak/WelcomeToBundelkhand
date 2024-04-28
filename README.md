@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Hamara Bundelkhand</h1>
 
-<p align="center"><img src="https://ibb.co/9bwrwNx" alt="project-image"></p>
+
 
 <p id="description">Hamara Bundelkhand a cutting-edge language conversion app bridges the gap between Bundeli and Hindi in Bundelkhand fostering connectivity. Its intuitive interface allows seamless translation catering to diverse linguistic needs. Beyond mere conversion it serves as a cultural bridge promoting unity and preserving heritage.</p>
 
@@ -8,9 +8,6 @@
 
 [https://welcome-to-bundelkhand.vercel.app/](https://welcome-to-bundelkhand.vercel.app/)
 
-<h2>Project Screenshots:</h2>
-
-<img src="https://ibb.co/KGsQWMg" alt="project-screenshot" width="400" height="400/">
 
   
   
